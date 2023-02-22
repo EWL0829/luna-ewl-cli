@@ -1,6 +1,6 @@
 {
   "name": "@luna-ewl-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "ewl <amoryvictorialee@outlook.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"run test from core\""
   },
   "dependencies": {
-    "@luna-ewl-cli/utils": "^1.0.0"
+    "@luna-ewl-cli/utils": "^1.0.1"
   }
 }
